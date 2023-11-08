@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.ServiceBus.Sender.Demo", "Console.ServiceBus.Sender.Demo.csproj", "{9B9863BC-2CEA-4D24-A6D6-196616EB14D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.ServiceBus.Receiver.Demo", "..\Console.ServiceBus.Receiver.Demo\Console.ServiceBus.Receiver.Demo.csproj", "{96B51F39-81BF-4DE0-8943-5F36E8E4F3BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9B9863BC-2CEA-4D24-A6D6-196616EB14D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B9863BC-2CEA-4D24-A6D6-196616EB14D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B9863BC-2CEA-4D24-A6D6-196616EB14D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B51F39-81BF-4DE0-8943-5F36E8E4F3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B51F39-81BF-4DE0-8943-5F36E8E4F3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B51F39-81BF-4DE0-8943-5F36E8E4F3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B51F39-81BF-4DE0-8943-5F36E8E4F3BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
